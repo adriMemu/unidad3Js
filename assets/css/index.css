@@ -1,0 +1,19 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+input {
+    padding: .5rem;
+    max-width: 10rem;
+}
